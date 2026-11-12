@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+primaryColor = "#0063A9"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F5F5F5"
+textColor = "#000000"
+font = "sans serif"
+widgetBackgroundColor = "#FFFFFF"
+widgetBorderColor = "#CCCCCC"
